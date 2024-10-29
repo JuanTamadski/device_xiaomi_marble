@@ -16,15 +16,6 @@
     "target_path": "hardware/xiaomi"
   },
   {
-    "repository": "device_xiaomi_miuicamera-marble",
-    "target_path": "device/xiaomi/miuicamera-marble"
-  },
-  {
-    "repository": "vendor_xiaomi_miuicamera-marble",
-    "target_path": "vendor/xiaomi/miuicamera-marble",
-    "remote": "evo-main"
-  },
-  {
     "repository": "cupid-development/android_kernel_xiaomi_sm8450",
     "target_path": "kernel/xiaomi/sm8450",
     "remote": "github-non-los",
